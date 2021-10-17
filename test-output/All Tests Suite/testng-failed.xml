@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Tests Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.pageObjectEcom.vr.helper.listener.ExtentListener"/>
+  </listeners>
+  <test thread-count="5" name="Registration Test(failed)">
+    <classes>
+      <class name="com.pageObjectEcom.vr.testScripts.RegistrationTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="testRegistration"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.pageObjectEcom.vr.testScripts.RegistrationTest -->
+    </classes>
+  </test> <!-- Registration Test(failed) -->
+  <test thread-count="5" name="VerifylowestFirstPriceFilter Test(failed)">
+    <classes>
+      <class name="com.pageObjectEcom.vr.testScripts.VerifylowestFirstPriceFilter">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="verifyLowestFirstPriceListInProduct_deatilsPage"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.pageObjectEcom.vr.testScripts.VerifylowestFirstPriceFilter -->
+    </classes>
+  </test> <!-- VerifylowestFirstPriceFilter Test(failed) -->
+  <test thread-count="5" name="VerifyProductCounts Test(failed)">
+    <classes>
+      <class name="com.pageObjectEcom.vr.testScripts.VerifyProductCounts">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="testVerifyProductCounts"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.pageObjectEcom.vr.testScripts.VerifyProductCounts -->
+    </classes>
+  </test> <!-- VerifyProductCounts Test(failed) -->
+</suite> <!-- Failed suite [All Tests Suite] -->

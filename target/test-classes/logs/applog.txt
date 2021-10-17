@@ -1,0 +1,45 @@
+2021-10-17 12:10:929 INFO  TestBase:135 - Initialised webdriver: 959055079
+2021-10-17 12:10:947 INFO  WaitHelper:28 - waitHelper object created
+2021-10-17 12:10:948 INFO  WaitHelper:38 - implicitWait set to: 120
+2021-10-17 12:10:973 INFO  WaitHelper:144 - waiting for page to load for : SECONDSseconds
+2021-10-17 12:10:988 INFO  WaitHelper:146 - page is loaded
+2021-10-17 12:10:467 INFO  WaitHelper:28 - waitHelper object created
+2021-10-17 12:10:501 INFO  WaitHelper:152 - waiting for: [[ChromeDriver: chrome on WINDOWS (a3224033c4e277e4cee46f43670bf655)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a] for:120 seconds
+2021-10-17 12:10:632 INFO  WaitHelper:155 - element is visible now
+2021-10-17 12:10:633 INFO  TestBase:171 - capturing UI navigation screen...
+2021-10-17 12:10:635 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:409 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:520 INFO  TestBase:191 - excel location F:\vamshi\liveprojects\pageObjectsEcom/src/main/resources/exceldata/testData.xlsx
+2021-10-17 12:10:553 INFO  TestBase:71 - loginTest test stasted
+2021-10-17 12:10:832 INFO  LoginPage:77 - clicked on the signin link
+2021-10-17 12:10:31 INFO  LoginPage:84 - entering email as vamshi1608@gmail.com
+2021-10-17 12:10:218 INFO  LoginPage:92 - entering password as thirupathi
+2021-10-17 12:10:222 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:222 INFO  JavaScriptHelper:60 - scrolling down vertically...
+2021-10-17 12:10:963 INFO  LoginPage:101 - clicking on the submit button...
+2021-10-17 12:10:967 INFO  WaitHelper:28 - waitHelper object created
+2021-10-17 12:10:23 INFO  WaitHelper:152 - waiting for: [[ChromeDriver: chrome on WINDOWS (a3224033c4e277e4cee46f43670bf655)] -> xpath: //*[@id="block_top_menu"]/ul/li[1]/a] for:120 seconds
+2021-10-17 12:10:106 INFO  WaitHelper:155 - element is visible now
+2021-10-17 12:10:107 INFO  TestBase:171 - capturing UI navigation screen...
+2021-10-17 12:10:108 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:391 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:557 INFO  VerificationHelper:24 - element is displayed...Welcome to your account. Here you can manage all of your personal information and orders.
+2021-10-17 12:10:940 INFO  WaitHelper:152 - waiting for: [[ChromeDriver: chrome on WINDOWS (a3224033c4e277e4cee46f43670bf655)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a] for:120 seconds
+2021-10-17 12:10:01 INFO  WaitHelper:155 - element is visible now
+2021-10-17 12:10:867 INFO  TestBase:71 - loginTest test stasted
+2021-10-17 12:10:685 INFO  LoginPage:77 - clicked on the signin link
+2021-10-17 12:10:859 INFO  LoginPage:84 - entering email as vamshi1608@gmail.com
+2021-10-17 12:10:23 INFO  LoginPage:92 - entering password as thirupathi
+2021-10-17 12:10:24 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:26 INFO  JavaScriptHelper:60 - scrolling down vertically...
+2021-10-17 12:10:625 INFO  LoginPage:101 - clicking on the submit button...
+2021-10-17 12:10:628 INFO  WaitHelper:28 - waitHelper object created
+2021-10-17 12:10:657 INFO  WaitHelper:152 - waiting for: [[ChromeDriver: chrome on WINDOWS (a3224033c4e277e4cee46f43670bf655)] -> xpath: //*[@id="block_top_menu"]/ul/li[1]/a] for:120 seconds
+2021-10-17 12:10:715 INFO  WaitHelper:155 - element is visible now
+2021-10-17 12:10:717 INFO  TestBase:171 - capturing UI navigation screen...
+2021-10-17 12:10:718 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:53 INFO  JavaScriptHelper:17 - JavaScriptHelper has been initialised
+2021-10-17 12:10:169 INFO  VerificationHelper:24 - element is displayed...Welcome to your account. Here you can manage all of your personal information and orders.
+2021-10-17 12:10:740 INFO  WaitHelper:152 - waiting for: [[ChromeDriver: chrome on WINDOWS (a3224033c4e277e4cee46f43670bf655)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a] for:120 seconds
+2021-10-17 12:10:791 INFO  WaitHelper:155 - element is visible now
+2021-10-17 12:10:57 INFO  TestBase:71 - loginTest test stasted

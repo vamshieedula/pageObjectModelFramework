@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="All Tests Suite">
+	<listeners>
+		<!--  <listener class-name="com.pageObjectEcom.vr.helper.listener.RetryListener"></listener>-->
+		<listener class-name="com.pageObjectEcom.vr.helper.listener.ExtentListener"></listener>
+	</listeners>
+	
+	<test name="LoginTest">
+		<classes>
+			<class name="com.pageObjectEcom.vr.testScripts.LoginTest"></class>
+		</classes>
+	</test>
+	
+	
+	<test name="Registration Test">
+		<classes>
+			<class name="com.pageObjectEcom.vr.testScripts.RegistrationTest"></class>
+		</classes>
+	</test>
+	
+	
+	<test name="VerifylowestFirstPriceFilter Test">
+		<classes>
+			<class name="com.pageObjectEcom.vr.testScripts.VerifylowestFirstPriceFilter"></class>
+		</classes>
+	</test>
+	
+	
+	<test name="VerifyProductCounts Test">
+		<classes>
+			<class name="com.pageObjectEcom.vr.testScripts.VerifyProductCounts"></class>
+		</classes>
+	</test>
+	
+	
+	
+</suite>
