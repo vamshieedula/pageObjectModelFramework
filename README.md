@@ -1,2 +1,0 @@
-# pageObjectModelFramework
-complete pageobject model
